@@ -201,7 +201,6 @@ foreach($comments as $comment){
 
 <hr style="border:2px groove #000000;">
 
-
 <form method="post" action="mission_2-6.php">
 
 【削除フォーム】<br/>
