@@ -86,7 +86,6 @@ try{
 
 			}//削除ボタン終わり
 
-
 		}else if(isset($_POST["edit"])){
 
 			$sql='SELECT*FROM kadai';
