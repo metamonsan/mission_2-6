@@ -179,8 +179,6 @@ foreach($comments as $comment){
 
 	}else{
 
-		
-
 		echo $linearray[0];
 		echo "<br>";
 		echo $linearray[1];
