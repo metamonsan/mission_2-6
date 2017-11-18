@@ -191,7 +191,6 @@ foreach($result as $re){
 <form method="post" action="mission_2-15.php">
 
 【削除フォーム】<br/>
-
 削除対象番号:<input type="number" name="deletenumber"><br>
 パスワード(投稿時に設定したパスワードを入力してください):<input type="password" name="deletepass" size="8" minlength="4" maxlength="8"><br>
 <input type="submit" name="delete" value="削除">
@@ -199,7 +198,6 @@ foreach($result as $re){
 <br><br>
 
 【編集フォーム】<br>
-
 編集対象番号:<input type="number" name="editnumber"><br>
 パスワード(投稿時に設定したパスワードを入力してください):<input type="password" name="editpass" size="8" minlength="4" maxlength="8" ><br>
 <input type="submit" name="edit" value="編集">
